@@ -1,2 +1,2 @@
-# uxe-thc03-worldtraveler
+# World Traveler
 World Traveler (same app but in React) 
